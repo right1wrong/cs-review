@@ -4,5 +4,19 @@ how to represent things in our world and try to find solutions ruled by modern c
 created and developed first, which can be learned through crashcourse on Youtube.
 
 Based on this core takeaway, we can easily find that our thinking patterns can be trained into an automatic simulated computer because we get the ability to
-imitate how computers work and how to build new algos or models or systems to fix problems in real life by utilizing current computation power. But isn't it
-similar to us being colonized by computers' mind?
+imitate how computers work and how to build new algos or models or systems to fix problems in real life by utilizing current computation power. But once more
+and more people learn and always use the way that computers use, isn't it similar to us being colonized by computers' mind?
+
+Objects
+1.1.4
+"An object seamlessly bundles together data and the logic that manipulates that data, in a way that manages the complexity of both."
+We can find an interesting thing here which is correlated with the origin of computer science. People created computers to help us compute data fast in the beginning.
+-So we need to find a way to represent numbers and other math concepts in the computer. No matter it is as simple as addition and division by mechnical movements
+in early computers or logic gates and circuit design in modern computers, we just created machines/mechanisms which could help us calculate or do other mathmatical 
+work on their own instead of ourselves doing these repetitive stuff. We have already learned most concepts of common objects in math before.
+
+
+"In the end, we will find that all of these core concepts are closely related: functions are objects, objects are functions, and interpreters are instances
+of both. However, developing a clear understanding of each of these concepts and their role in organizing code is critical to mastering the art of programming."
+
+
